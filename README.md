@@ -1,10 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Matheus Farsetti</h1>
 <h3 align="center">I'm a front-end developer for 4 years, working with react.js, react native and vtex.io;</h3>
 
 - 💬 Ask me about **react.js, react native and vtex.io**
 
+- 🔥 Constant studying ;
+
 - 📫 How to reach me **matheus.farsetti@gmail.com**
+
+- 🪐 Phrase "Be better today than you were yesterday, and be better tomorrow than you are today";
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
